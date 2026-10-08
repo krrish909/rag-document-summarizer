@@ -6,7 +6,7 @@
 [![Hugging Face Transformers](https://img.shields.io/badge/LLM-BART%20Large%20CNN-purple.svg)](https://huggingface.co/facebook/bart-large-cnn)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An AI-powered Retrieval-Augmented Generation (RAG) app that summarizes documents by chunking input files, embedding them, retrieving contextually relevant sections, and generating a final summary using a pre-trained large language model.
+An AI-powered Retrieval-Augmented Generation (RAG) app that summarizes documents by chunking input files, embedding them, retrieving contextually relevant sections, and generating a final summary using  a pre-trained large language model.
 
 ---
 
